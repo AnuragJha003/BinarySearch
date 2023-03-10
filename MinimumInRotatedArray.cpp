@@ -42,6 +42,6 @@ public:
     }
 };
 
-//MAX ELMNT KA INDEX AND THEN +1 TO IT 
+//ALTERNATE APPROACH:MAX ELMNT KA INDEX AND THEN +1 TO IT 
 
 https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
